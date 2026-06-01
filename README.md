@@ -16,7 +16,6 @@ Foram desenvolvidas duas versões da calculadora:
 1. **Versão Shell Script (.sh)** para execução em ambiente Linux.
 2. **Versão Python (.py)** para execução utilizando o interpretador Python.
 
----
 
 # 📁 Estrutura do Projeto
 
@@ -28,7 +27,6 @@ calculadora/
 └── README.md
 ```
 
----
 
 # 🛠 Tecnologias Utilizadas
 
@@ -39,7 +37,6 @@ calculadora/
 * GitHub
 * Visual Studio Code
 
----
 
 # 📜 Código Shell Script
 
@@ -56,7 +53,6 @@ Funções implementadas:
 * Operações matemáticas básicas;
 * Exibição do resultado na tela.
 
----
 
 # 🐍 Código Python
 
@@ -74,7 +70,6 @@ Funções implementadas:
 * Tratamento de divisão por zero;
 * Exibição do resultado na tela.
 
----
 
 # ▶️ Como Executar o Script Shell (.sh)
 
@@ -107,7 +102,6 @@ Escolha a operação (+, -, *, /):
 Resultado: 15
 ```
 
----
 
 # ▶️ Como Executar o Programa Python
 
@@ -135,7 +129,6 @@ Escolha a operação (+, -, *, /): /
 Resultado: 5.0
 ```
 
----
 
 # 💡 Explicação do Código Python
 
@@ -147,8 +140,6 @@ O programa segue os seguintes passos:
 4. Realiza o cálculo correspondente.
 5. Exibe o resultado na tela.
 6. Caso o usuário tente dividir por zero, o programa apresenta uma mensagem de erro.
-
----
 
 # 🎯 Objetivos de Aprendizagem
 
@@ -163,7 +154,6 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 * Controle de versão com Git;
 * Hospedagem de projetos no GitHub.
 
----
 
 # 👩‍💻 Autora
 
@@ -171,12 +161,3 @@ Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
 
 Projeto desenvolvido para fins acadêmicos e de aprendizagem em programação.
 
----
-
-# 📌 Repositório
-
-Após publicar o projeto, substitua o link abaixo pelo endereço do seu repositório:
-
-```text
-https://github.com/seu-usuario/calculadora-linux-python
-```
